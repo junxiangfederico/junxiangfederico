@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @junxiangfederico
 - 👀 I’m interested in Programming, mostly backend.
-- 🌱 I’m currently learning Computer Science at "Università degli studi di Milano"
+- 🌱 I’m currently studying Computer Science at "Università degli studi di Milano"
 - 📫 How to reach me : https://federicozhou.me/
 
 <!---
