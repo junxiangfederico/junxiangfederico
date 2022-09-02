@@ -2,7 +2,7 @@
 - 👀 I’m interested in Programming, mostly backend.
 - 🌱 I’m currently studying Computer Science at "Università degli studi di Milano"
 - 📫 How to reach me : https://federicozhou.me/
-- 🧑‍💻 Working at Wise (formerly Transferwise) as an intern since June
+- 🧑‍💻 Worked at Wise (formerly Transferwise) as an intern since June to September
 
 <!---
 junxiangfederico/junxiangfederico is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
