@@ -4,7 +4,7 @@
 - 📫 How to reach me : https://federicozhou.me/ 
 - 🧑‍💻 Worked at Wise (formerly Transferwise) as an intern since June to September.
 - 🧰 Currently working at Huawei as a Technical Engineer intern.
-- 🤓 Joining Amazon (Prime Video) as Software Developer Engineer in May.
+- 🤓 Joining Amazon (Music ML, Personalisation and Suggestion) as Software Developer Engineer in May.
 <!---
 junxiangfederico/junxiangfederico is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
