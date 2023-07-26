@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @junxiangfederico
 - 👀 I’m interested in Programming, mostly backend.
 - 🌱 I’m currently studying Computer Science at "Università degli studi di Milano".
-- 📫 How to reach me : https://federicozhou.me/ 
+- 📫 How to reach me : https://federicozhou.com/ 
 - 🧑‍💻 Worked at Wise (formerly Transferwise) as an intern since June to September.
 - 🧰 Currently working at Huawei as a Technical Engineer intern.
 - 🤓 Joining Amazon (Music ML, Personalisation and Suggestion) as Software Developer Engineer in May.
